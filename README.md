@@ -8,4 +8,4 @@ The front-end of the chat application is made using the **Java Swing** framework
 
 The application uses the **RMI** technology to allow communication between the different instances of the chat application running on different computers. The RMI technology allows the objects in different Java Virtual Machines (JVMs) to invoke methods on each other as if they were local. This enables the chat application to be distributed, meaning that it can be used by people from different locations, as long as they have an active internet connection.
 
-In summary, the **Chat Application** is a distributed desktop software that allows users to communicate with each other in real-time. It is written in Java, uses the RMI technology, and has a front-end made using the Java Swing framework.
+
